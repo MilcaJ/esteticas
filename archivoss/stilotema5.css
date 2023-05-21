@@ -1,0 +1,47 @@
+body{
+ background-image: url(otrof.jpg) ;
+ background-position: center center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-attachment:fixed ;
+}
+
+.contenedor {
+ background-image: url(elmo.jpg) ;
+ background-position: center center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-attachment:fixed ;
+ padding: 35px;
+}
+.contenedor2 {
+ background-color: transparent ;
+ background-position: center center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-attachment:fixed ;
+ padding: 35px
+ }
+.one{
+ 	color: #ffff;
+ }
+ .t{
+ 	color: #ffff ;
+
+ }
+ #b{
+ 	border-style: dashed;
+ 	border-color: #ffff;
+ }
+
+ * {
+  margin: 0;
+  padding: 0;
+  font-family: lato;
+ }
+
+ .h2{
+   text-align: center;
+   margin-top:50px;
+   font-size: 2rem;
+ }
